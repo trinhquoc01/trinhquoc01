@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+![Screenshot_20230217_063159](https://user-images.githubusercontent.com/115643074/228428941-3fabf07c-876d-444c-adde-f65927343b8f.png)
+
 **trinhquoc01/trinhquoc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
